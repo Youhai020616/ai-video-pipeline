@@ -30,6 +30,15 @@ This project replaces the entire team with Python + AI APIs:
 
 **A 30-second short drama: ~15 minutes. A 90-second news video: ~5 minutes.** Zero manual editing.
 
+### 📺 See It in Action
+
+Download the example outputs to see what the pipeline produces:
+
+| Example | Duration | Description | Download |
+|---------|----------|-------------|----------|
+| 📰 Weekly AI News | 98s | 5 stories, FLUX illustrations, Ken Burns, TTS + BGM | [example-news.mp4](https://github.com/Youhai020616/ai-video-pipeline/releases/download/v1.0.0/example-news.mp4) |
+| 🎭 Short Drama | 27s | 8 shots, character consistency, crossfade transitions | [example-drama.mp4](https://github.com/Youhai020616/ai-video-pipeline/releases/download/v1.0.0/example-drama.mp4) |
+
 ## Pipelines
 
 ### 1. 📰 Weekly AI News (`pipelines/weekly_news.py`)
