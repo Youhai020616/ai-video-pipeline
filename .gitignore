@@ -1,0 +1,16 @@
+# Work directories (generated files)
+work/
+*.mp4
+*.mp3
+*.srt
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
