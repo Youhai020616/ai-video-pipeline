@@ -14,6 +14,10 @@
 
 ---
 
+<p align="center">
+  <img src="./demo.gif" alt="AI Video Pipeline demo" width="800">
+</p>
+
 ## Why?
 
 Traditional video production needs a team: scriptwriter, illustrator, animator, voice actor, editor, sound designer.
