@@ -285,5 +285,5 @@ Built with:
 ---
 
 <p align="center">
-  <sub>Built by <a href="https://github.com/Youhai020616">PocketAI</a> — one person + AI = entire production studio</sub>
+  <sub>Built by <a href="https://github.com/Youhai020616">Youhai</a> — one person + AI = entire production studio</sub>
 </p>
